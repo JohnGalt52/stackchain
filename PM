@@ -1,0 +1,24 @@
+End state deliverables 
+Overall Dashboard
+  Front End
+    Public View
+    Historical Data
+    Analytics
+    Find The tip
+      Find the monthly tip
+  
+  Mempool Operator Access
+    Stackjoin management (block builder)
+    Data scraper (twitter API)
+    Inputs (historical data) miner of teh week, node of the week, memer of the week
+    
+  "Meme" pool (needs to be further fleshed out, place to showcase timeline of great memes
+  
+  Back End
+    Usernames
+    dollaramounts
+    Avg cost per BTC per day
+    Link to SS receipt
+    
+  Stretch Goal
+    Block Viewer
